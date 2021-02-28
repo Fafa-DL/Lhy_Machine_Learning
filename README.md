@@ -7,6 +7,8 @@ B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
 
 不定期分享读研干货，点赞关注一起进步：https://space.bilibili.com/46880349
 
+人工智能技术探讨群：78174903
+
 ![Alt text](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/Assignment%20Schedule.png)
 
 第一节 Introduction  作业 HW1: Regression
