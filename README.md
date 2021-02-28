@@ -1,8 +1,11 @@
 # Lhy_Machine_Learning
 李宏毅2021春季机器学习课程课件及作业
 B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
+
 课程主页：https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html
+
 不定期分享读研干货，点赞关注一起进步：https://space.bilibili.com/46880349
+
 第一节 Introduction  作业 HW1: Regression
 第二节 Deep Learning  作业 HW2: Classification
 第三节 Self-Attention  作业 HW3: CNN HW4: Self-Attention
