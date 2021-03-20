@@ -12,6 +12,9 @@ B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
 ![Alt text](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/Assignment%20Schedule.png)
 
 ![Alt text](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/HW.jpg)
+
+已同步更新助教范例！
+
 第一节 Introduction  作业 HW1: Regression 提交地址：https://www.kaggle.com/c/ml2021spring-hw1
 
 第二节 Deep Learning  作业 HW2: Classification 提交地址：https://www.kaggle.com/c/ml2021spring-hw2
