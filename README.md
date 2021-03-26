@@ -25,7 +25,7 @@ B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
 
 第二节 Deep Learning  作业 HW2: Classification 提交地址：https://www.kaggle.com/c/ml2021spring-hw2
 
-第三节 Self-Attention  作业 HW3: CNN HW4: Self-Attention
+第三节 Self-Attention  作业 HW3: CNN HW4: Self-Attention 提交地址：https://www.kaggle.com/c/ml2021spring-hw3 https://www.kaggle.com/c/ml2021spring-hw4
 
 第四节 Theory of ML
 
