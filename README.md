@@ -19,6 +19,8 @@ B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
 
 人工智能技术探讨群：78174903(目前满了)、571218304
 
+![Alt text](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/Lecture%20Schedule.jpg)
+
 ![Alt text](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/Assignment%20Schedule.png)
 
 ![Alt text](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/HW.jpg)
