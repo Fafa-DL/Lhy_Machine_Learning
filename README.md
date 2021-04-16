@@ -11,6 +11,8 @@
 
 2021/04/09 更新GAN及HW05；
 
+2021/04/16 更新Self-Supervised Learning及HW06 
+
 #------------------------------------------------------------------#
 
 B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
