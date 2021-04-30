@@ -13,6 +13,8 @@
 
 2021/04/16 更新Self-Supervised Learning及HW06 
 
+2021/04/30/ 更新Explainable AI&Adversarial Attack 及 HW07&HW08
+
 #------------------------------------------------------------------#
 
 B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
