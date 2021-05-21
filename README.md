@@ -15,6 +15,10 @@
 
 2021/04/30/ 更新Explainable AI&Adversarial Attack 及 HW07&HW08
 
+2021/05/06/ 更新Domain Adaptation 及 HW09&HW10
+
+2021/05/21/ 更新RL 及 HW11
+
 #------------------------------------------------------------------#
 
 B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
