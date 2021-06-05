@@ -19,6 +19,10 @@
 
 2021/05/21/ 更新RL 及 HW11
 
+2021/05/28/ 更新Quantum ML
+
+2021/06/04/ 更新Life-Long&Compression 及 HW12
+
 #------------------------------------------------------------------#
 
 B站视频地址：https://www.bilibili.com/video/BV1Wv411h7kN#reply4197445138
