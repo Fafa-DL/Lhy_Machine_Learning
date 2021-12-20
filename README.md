@@ -30,7 +30,7 @@ ppt/pdf支持直链下载，也支持百度云盘全部下载。
 ****
 
 |章节|名称|视频|资料|作业|
-|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+|---|---|---|---|---|
 |Introduction|Course Introduction|[链接](https://www.bilibili.com/video/BV1Wv411h7kN)|[ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/introduction%202021%20(v6)%20Chinese.pptx) [pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/introduction-2021-v6-Chinese.pdf)|-|
 |Introduction|Introduction of ML/DL|[链接](https://www.bilibili.com/video/BV1Wv411h7kN?p=2)|[ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/regression%20(v16).pptx) [pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/regression%20(v16).pdf)|HW1: Regression|
 |Deep Learning|Guideline of ML: overfit|[链接](https://www.bilibili.com/video/BV1Wv411h7kN?p=10)|[ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/overfit-v6.pptx) [pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/overfit-v6.pdf)|-|
