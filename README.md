@@ -10,7 +10,8 @@
 
 不定期分享AI干货，提供参与大厂讲座学知识和兼职的机会，点赞关注一起进步；
 
-ppt/pdf支持直链下载，也支持[百度云盘 提取码：ry4a](https://pan.baidu.com/s/1ZFWzLpMT301GacRPWIndEg)全部下载。
+ppt/pdf支持直链下载，也支持百度云盘全部下载。
+
 ```
 	
 |B站主页|[啥都会一点的研究生](https://space.bilibili.com/46880349)|
@@ -35,7 +36,7 @@ ppt/pdf支持直链下载，也支持[百度云盘 提取码：ry4a](https://pan
 ****
 
 |章节|名称|视频|资料|作业|
-|---|---|---|---|---|
+|:---:||:---:||:---:||:---:||:---:|
 |Introduction|Course Introduction|[视频链接](https://www.bilibili.com/video/BV1Wv411h7kN)|[ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/introduction%202021%20(v6)%20Chinese.pptx) [pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/introduction-2021-v6-Chinese.pdf)|-|
 |Introduction|Introduction of ML/DL|[视频链接](https://www.bilibili.com/video/BV1Wv411h7kN?p=2)|[ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/regression%20(v16).pptx) [pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/regression%20(v16).pdf)|HW1: Regression|
 |Deep Learning|Guideline of ML: overfit|[视频链接](https://www.bilibili.com/video/BV1Wv411h7kN?p=10)|[ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/overfit-v6.pptx) [pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/overfit-v6.pdf)|-|
