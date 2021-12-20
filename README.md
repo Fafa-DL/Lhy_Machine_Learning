@@ -11,7 +11,6 @@
 不定期分享AI干货，提供参与大厂讲座学知识和兼职的机会，点赞关注一起进步；
 
 ppt/pdf支持直链下载，也支持百度云盘全部下载。
-
 ```
 	
 |B站主页|[啥都会一点的研究生](https://space.bilibili.com/46880349)|
@@ -74,6 +73,6 @@ ppt/pdf支持直链下载，也支持百度云盘全部下载。
 |2021/06/04|更新Life-Long&Compression 及 HW12|
 |2021/06/11|更新Meta Learning 及 HW13&HW14|
 |2021/06/18|更新HW15，随着李老师课程结语视频上传，2021机器学习基本结束啦|
-|2021/06/18|更新Github排版，删除repo中的ppt/pdf直接提供下载链接，总资料放入百度云盘|
+|2021/12/20|更新Github排版，删除repo中的ppt/pdf直接提供下载链接，总资料放入[百度云盘-提取码：ry4a](https://pan.baidu.com/s/1ZFWzLpMT301GacRPWIndEg)|
 
 ![Alt text](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/Lecture%20Schedule.jpg)
