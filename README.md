@@ -1,4 +1,4 @@
-李宏毅2021春季机器学习课程课件及作业
+李宏毅2021/2022春季机器学习课程课件及作业
 ===========================
 
 [![BILIBILI](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/Mine.png)](https://space.bilibili.com/46880349)
@@ -23,7 +23,8 @@ ppt/pdf支持直链下载，也支持百度云盘全部下载。
 
 |名称|项目|
 |---|---|
-|课程主页|[李宏毅2021春季机器学习](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)|
+|2021课程主页|[李宏毅2021春季机器学习](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)|
+|2022课程主页|[李宏毅2022春季机器学习](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)|
 |B站视频合集|[(强推)李宏毅2021春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN)|
 |百度云资料/作业/范例汇总|[提取码：ry4a](https://pan.baidu.com/s/1ZFWzLpMT301GacRPWIndEg)|
 
@@ -74,5 +75,6 @@ ppt/pdf支持直链下载，也支持百度云盘全部下载。
 |2021/06/11|更新Meta Learning 及 HW13&HW14|
 |2021/06/18|更新HW15，随着李老师课程结语视频上传，2021机器学习基本结束啦|
 |2021/12/20|更新Github排版，删除repo中的ppt/pdf直接提供下载链接，总资料放入[百度云盘-提取码：ry4a](https://pan.baidu.com/s/1ZFWzLpMT301GacRPWIndEg)|
+|2022/02/17|2022春季机器学习课程未重新录制，UP同步更新To Learn More内容|
 
 ![Alt text](https://github.com/Fafa-DL/Lhy_Machine_Learning/blob/main/Lecture%20Schedule.jpg)
