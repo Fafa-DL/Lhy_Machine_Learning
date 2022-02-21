@@ -5,9 +5,8 @@
 
 ****
 
+## 重磅须知
 ```
-（重磅须知）
-
 2022仅在2021基础上进行小补充，2021内容变成了前置知识，UP会在视频标题打上2022的标签；
 
 ppt/pdf支持直链下载。
@@ -48,8 +47,8 @@ ppt/pdf支持直链下载。
 |2021课程主页|[李宏毅2021春季机器学习](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)|
 |2022课程主页|[李宏毅2022春季机器学习](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php)|
 |B站视频合集|[(强推)李宏毅2021春机器学习课程](https://www.bilibili.com/video/BV1Wv411h7kN)|
-|2021李宏毅机器学习视频及资料目录|[链接](https://github.com/Fafa-DL/Lhy_Machine_Learning/2021%20ML)
-|2022李宏毅机器学习视频及资料目录|[链接](https://github.com/Fafa-DL/Lhy_Machine_Learning/2022%20ML)
+|2021视频及资料目录|[链接](https://github.com/Fafa-DL/Lhy_Machine_Learning/tree/main/2021%20ML)
+|2022视频及资料目录|[链接](https://github.com/Fafa-DL/Lhy_Machine_Learning/tree/main/2022%20ML)
 
 ****
 
