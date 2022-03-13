@@ -17,7 +17,7 @@ UP将2021&2022所有作业的数据资料整理打包好了，由于文件太大
 
 ppt/pdf支持直链下载。
 ```
-[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/gzh.png)](https://space.bilibili.com/46880349)
+[![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/gzh.jpg)](https://space.bilibili.com/46880349)
 
 ## 更新日志
 
