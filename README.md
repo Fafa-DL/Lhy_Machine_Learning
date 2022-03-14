@@ -40,7 +40,7 @@ ppt/pdf支持直链下载。
 |2022/02/21|更新Lecture 1:Introductionof Deep Learning补充内容，Github排版大更新|
 |2022/02/25|更新Lecture 2:What to do if my network fails to train补充内容与HW2|
 |2022/03/05|更新Lecture 3:Images input，HW3|
-|2022/03/05|更新Lecture 4 Sequence as input，HW4<br>UP将2021&2022所有作业的数据资料整理打包好放在公众号【啥都会一点的研究生】|
+|2022/03/13|更新Lecture 4 Sequence as input，HW4<br>UP将2021&2022所有作业的数据资料整理打包好放在公众号【啥都会一点的研究生】|
 
 ****
 	
