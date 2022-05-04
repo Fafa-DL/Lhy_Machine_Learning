@@ -9,7 +9,7 @@
 ****
 
 |章节|名称|资料|作业|
-|---|---|---|---|---|
+|---|---|---|---|
 |Introduction|Course Introduction|[ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/introduction%202021%20(v6)%20Chinese.pptx) [pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/introduction-2021-v6-Chinese.pdf)|Colab:<br>[pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/hw/Colab/Google_Colab_Tutorial.pdf) [code](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/Colab/Google_Colab_Tutorial.ipynb)<br>Pytorch:<br>[pdf1](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/hw/Pytorch/Pytorch_Tutorial_1.pdf) [pdf2](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/hw/Pytorch/Pytorch_Tutorial_2.pdf) [code](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/Pytorch/Pytorch_Tutorial.ipynb)|
 |Introduction|Introduction of ML/DL|[ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/regression%20(v16).pptx) [pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/regression%20(v16).pdf)|HW1: <br>[pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/hw/HW01/HW01.pdf) [code](https://colab.research.google.com/github/ga642381/ML2021-Spring/blob/main/HW01/HW01.ipynb)|
 |Deep Learning|Guideline of ML: overfit|[ppt](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/overfit-v6.pptx) [pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/overfit-v6.pdf)|-|
