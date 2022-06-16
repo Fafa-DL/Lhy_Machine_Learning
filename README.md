@@ -5,6 +5,8 @@
 
 [![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
 
+![](https://img.shields.io/badge/Bilibili-%E5%95%A5%E9%83%BD%E4%BC%9A%E4%B8%80%E7%82%B9%E7%9A%84%E7%A0%94%E7%A9%B6%E7%94%9F-green)
+![](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%95%A5%E9%83%BD%E4%BC%9A%E4%B8%80%E7%82%B9%E7%9A%84%E7%A0%94%E7%A9%B6%E7%94%9F-brightgreen)
 [![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Lhy_Machine_Learning)](https://github.com/Fafa-DL/Lhy_Machine_Learning)
 [![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Lhy_Machine_Learning)](https://github.com/Fafa-DL/Lhy_Machine_Learning)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Fafa-DL.Lhy_Machine_Learning&right_color=yellow)
