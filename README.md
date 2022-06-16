@@ -1,7 +1,23 @@
 李宏毅2021/2022春季机器学习课程课件及作业
 ===========================
 
+<div align="center">
+
 [![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/Bilibili.png)](https://space.bilibili.com/46880349)
+
+[![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Lhy_Machine_Learning&label=Stars)](https://github.com/Fafa-DL/Lhy_Machine_Learning)
+[![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Lhy_Machine_Learning&label=Forks)](https://github.com/Fafa-DL/Lhy_Machine_Learning)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Fafa-DL.Lhy_Machine_Learning&right_color=yellow)
+
+</div>
+
+## 我维护的其他项目
+- [**图片数据不够？我做了一款图像增强软件**](https://github.com/Fafa-DL/Image-Augmentation)
+[![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Image-Augmentation&label=Stars)](https://github.com/Fafa-DL/Image-Augmentation)
+[![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Image-Augmentation&label=Forks)](https://github.com/Fafa-DL/Image-Augmentation)
+- [**开箱即用，涵盖主流模型的图像分类|主干网络学习/对比/魔改项目**](https://github.com/Fafa-DL/Awesome-Backbones)
+[![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Awesome-Backbones&label=Stars)](https://github.com/Fafa-DL/Awesome-Backbones)
+[![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Awesome-Backbones&label=Forks)](https://github.com/Fafa-DL/Awesome-Backbones)
 
 ****
 
