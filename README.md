@@ -13,6 +13,8 @@
 
 </div>
 
+[toc]
+
 ## 我维护的其他项目
 - [**图片数据不够？我做了一款图像增强软件**](https://github.com/Fafa-DL/Image-Augmentation)
 [![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Image-Augmentation)](https://github.com/Fafa-DL/Image-Augmentation)
@@ -24,23 +26,23 @@
 ## 其他优质课程（建议关注，以免迷路哈哈哈）
 |名称|链接|
 |---|---|
-|(高清重制)麻省理工学院 MIT 18.06 线性代数|[视频地址](https://www.bilibili.com/video/BV1iU4y1K7oZ)|
-|(强推)Python面向对象编程五步曲-从零到就业|[视频地址](https://www.bilibili.com/video/BV1v4411B7Zv)|
-|【吴恩达亲授】适用于所有人的人工智能课程（中字）|[视频地址](https://www.bilibili.com/video/BV1gE411M7Eg)|
-|(强推 双字)网易版吴恩达机器学习课程|[视频地址](https://www.bilibili.com/video/BV1LE411h7P4)|
-|(强推 双字)2022吴恩达机器学习Deeplearning.ai课程|[视频地址](https://www.bilibili.com/video/BV1Pa411X76s)|
-|(强推 双字)2018秋季CS229机器学习-官方高清版|[视频地址](https://www.bilibili.com/video/BV1Et4y1U7WB)|
-|(强推 双字)2021版吴恩达深度学习课程Deeplearning.ai|[视频地址](https://www.bilibili.com/video/BV12E411a7Xn)|
-|(强推)浙江大学-机器学习|[视频地址](https://www.bilibili.com/video/BV1qf4y1x7kB)|
-|吃透《统计学习方法》|[视频地址](https://www.bilibili.com/video/BV1tZ4y1U7ot)|
-|北理-Python数据分析与展示-Numpy、Matplotlib、Pandas|[视频地址](https://www.bilibili.com/video/BV1L64y1X7om)|
-|适用于初学者的Pytorch神经网络编程教学|[视频地址](https://www.bilibili.com/video/BV15K411N7CF)|
-|(强推)Pytorch深度学习实战教学|[视频地址](https://www.bilibili.com/video/BV1Zv4y1o7uG)|
-|(强推)TensorFlow官方入门实操课程|[视频地址](https://www.bilibili.com/video/BV1rz4y117p1)|
-|【北交】图像处理与机器学习|[视频地址](https://www.bilibili.com/video/BV1Kh411X7Qv)|
-|零基础OpenCV4-C++极简入门|[视频地址](https://www.bilibili.com/video/BV1YY41177NU)|
-|（全）基于python的Opencv项目实战|[视频地址](https://www.bilibili.com/video/BV1oJ411D71z)|
-|(强推)最新斯坦福CS231n计算机视觉课程|[视频地址](https://www.bilibili.com/video/BV1hi4y1t7kF)|
+|(高清重制)麻省理工学院 MIT 18.06 线性代数|[视频地址](https://www.bilibili.com/video/BV1iU4y1K7oZ?spm_id_from=333.337.search-card.all.click)|
+|(强推)Python面向对象编程五步曲-从零到就业|[视频地址](https://www.bilibili.com/video/BV1v4411B7Zv?spm_id_from=333.337.search-card.all.click)|
+|【吴恩达亲授】适用于所有人的人工智能课程（中字）|[视频地址](https://www.bilibili.com/video/BV1gE411M7Eg?spm_id_from=333.337.search-card.all.click)|
+|(强推 双字)网易版吴恩达机器学习课程|[视频地址](https://www.bilibili.com/video/BV1LE411h7P4?spm_id_from=333.337.search-card.all.click)|
+|(强推 双字)2022吴恩达机器学习Deeplearning.ai课程|[视频地址](https://www.bilibili.com/video/BV1Pa411X76s?spm_id_from=333.337.search-card.all.click)|
+|(强推 双字)2018秋季CS229机器学习-官方高清版|[视频地址](https://www.bilibili.com/video/BV1Et4y1U7WB?spm_id_from=333.337.search-card.all.click)|
+|(强推 双字)2021版吴恩达深度学习课程Deeplearning.ai|[视频地址](https://www.bilibili.com/video/BV12E411a7Xn?spm_id_from=333.337.search-card.all.click)|
+|(强推)浙江大学-机器学习|[视频地址](https://www.bilibili.com/video/BV1qf4y1x7kB?spm_id_from=333.337.search-card.all.click)|
+|吃透《统计学习方法》|[视频地址](https://www.bilibili.com/video/BV1tZ4y1U7ot?spm_id_from=333.337.search-card.all.click)|
+|北理-Python数据分析与展示-Numpy、Matplotlib、Pandas|[视频地址](https://www.bilibili.com/video/BV1L64y1X7om?spm_id_from=333.337.search-card.all.click)|
+|适用于初学者的Pytorch神经网络编程教学|[视频地址](https://www.bilibili.com/video/BV15K411N7CF?spm_id_from=333.337.search-card.all.click)|
+|(强推)Pytorch深度学习实战教学|[视频地址](https://www.bilibili.com/video/BV1Zv4y1o7uG?spm_id_from=333.337.search-card.all.click)|
+|(强推)TensorFlow官方入门实操课程|[视频地址](https://www.bilibili.com/video/BV1rz4y117p1?spm_id_from=333.337.search-card.all.click)|
+|【北交】图像处理与机器学习|[视频地址](https://www.bilibili.com/video/BV1Kh411X7Qv?spm_id_from=333.337.search-card.all.click)|
+|零基础OpenCV4-C++极简入门|[视频地址](https://www.bilibili.com/video/BV1YY41177NU?spm_id_from=333.337.search-card.all.click)|
+|（全）基于python的Opencv项目实战|[视频地址](https://www.bilibili.com/video/BV1oJ411D71z?spm_id_from=333.337.search-card.all.click)|
+|(强推)最新斯坦福CS231n计算机视觉课程|[视频地址](https://www.bilibili.com/video/BV1hi4y1t7kF?spm_id_from=333.337.search-card.all.click)|
 
 ****
 
