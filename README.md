@@ -19,7 +19,7 @@
 
 - [我维护的其他项目](#我维护的其他项目)
 
-- [其他优质课程](#其他优质课程（建议关注，以免迷路哈哈哈）)
+- [其他优质课程](#其他优质课程建议关注以免迷路哈哈哈)
 
 - [更新日志](#更新日志)
 
@@ -37,7 +37,7 @@ UP将2021&2022所有作业的数据资料整理打包好了，由于文件太大
 
 2022仅在2021基础上进行小补充，2021内容变成了前置知识，UP会在视频标题打上2022的标签；
 
-ppt/pdf支持直链下载，[2021直链](https://github.com/Fafa-DL/Lhy_Machine_Learning/tree/main/2021%20ML) | [2022直链](#课程资料直链)。
+ppt/pdf支持直链下载。
 ```
 
 ## 我维护的其他项目
@@ -48,7 +48,7 @@ ppt/pdf支持直链下载，[2021直链](https://github.com/Fafa-DL/Lhy_Machine_
 [![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Awesome-Backbones)](https://github.com/Fafa-DL/Awesome-Backbones)
 [![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Awesome-Backbones)](https://github.com/Fafa-DL/Awesome-Backbones)
 
-## 其他优质课程（建议关注，以免迷路哈哈哈）
+## 其他优质课程（建议关注以免迷路哈哈哈）
 |名称|链接|
 |---|---|
 |(高清重制)麻省理工学院 MIT 18.06 线性代数|[视频地址](https://www.bilibili.com/video/BV1iU4y1K7oZ?spm_id_from=333.337.search-card.all.click)|
