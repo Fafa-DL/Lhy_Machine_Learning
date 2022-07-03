@@ -13,7 +13,7 @@
 
 </div>
 
-[toc]
+[TOC]
 
 ## 我维护的其他项目
 - [**图片数据不够？我做了一款图像增强软件**](https://github.com/Fafa-DL/Image-Augmentation)
