@@ -21,6 +21,27 @@
 [![GitHub stars](https://img.shields.io/github/stars/Fafa-DL/Awesome-Backbones)](https://github.com/Fafa-DL/Awesome-Backbones)
 [![GitHub forks](https://img.shields.io/github/forks/Fafa-DL/Awesome-Backbones)](https://github.com/Fafa-DL/Awesome-Backbones)
 
+## 其他优质课程（建议关注，以免迷路哈哈哈）
+|名称|链接|
+|---|---|
+|(高清重制)麻省理工学院 MIT 18.06 线性代数|[视频地址](https://www.bilibili.com/video/BV1iU4y1K7oZ)|
+|(强推)Python面向对象编程五步曲-从零到就业|[视频地址](https://www.bilibili.com/video/BV1v4411B7Zv)|
+|【吴恩达亲授】适用于所有人的人工智能课程（中字）|[视频地址](https://www.bilibili.com/video/BV1gE411M7Eg)|
+|(强推 双字)网易版吴恩达机器学习课程|[视频地址](https://www.bilibili.com/video/BV1LE411h7P4)|
+|(强推 双字)2022吴恩达机器学习Deeplearning.ai课程|[视频地址](https://www.bilibili.com/video/BV1Pa411X76s)|
+|(强推 双字)2018秋季CS229机器学习-官方高清版|[视频地址](https://www.bilibili.com/video/BV1Et4y1U7WB)|
+|(强推 双字)2021版吴恩达深度学习课程Deeplearning.ai|[视频地址](https://www.bilibili.com/video/BV12E411a7Xn)|
+|(强推)浙江大学-机器学习|[视频地址](https://www.bilibili.com/video/BV1qf4y1x7kB)|
+|吃透《统计学习方法》|[视频地址](https://www.bilibili.com/video/BV1tZ4y1U7ot)|
+|北理-Python数据分析与展示-Numpy、Matplotlib、Pandas|[视频地址](https://www.bilibili.com/video/BV1L64y1X7om)|
+|适用于初学者的Pytorch神经网络编程教学|[视频地址](https://www.bilibili.com/video/BV15K411N7CF)|
+|(强推)Pytorch深度学习实战教学|[视频地址](https://www.bilibili.com/video/BV1Zv4y1o7uG)|
+|(强推)TensorFlow官方入门实操课程|[视频地址](https://www.bilibili.com/video/BV1rz4y117p1)|
+|【北交】图像处理与机器学习|[视频地址](https://www.bilibili.com/video/BV1Kh411X7Qv)|
+|零基础OpenCV4-C++极简入门|[视频地址](https://www.bilibili.com/video/BV1YY41177NU)|
+|（全）基于python的Opencv项目实战|[视频地址](https://www.bilibili.com/video/BV1oJ411D71z)|
+|(强推)最新斯坦福CS231n计算机视觉课程|[视频地址](https://www.bilibili.com/video/BV1hi4y1t7kF)|
+
 ****
 
 ## 重磅须知
@@ -68,6 +89,7 @@ ppt/pdf支持直链下载。
 |2022/05/24|更新HW12|
 |2022/05/30|更新HW13|
 |2022/06/10|更新HW14、HW15|
+|2022/07/03|将所有课件/作业/数据集进行更新，在线网盘满足所有资料，课程完结啦|
 
 ****
 	
@@ -105,7 +127,7 @@ ppt/pdf支持直链下载。
 |Lecture 12|[（一）增强式学习和机器学习一样都是三个步骤](https://www.bilibili.com/video/BV1Wv411h7kN?p=114)<br/>[（二）Policy Gradient 与修课心情](https://www.bilibili.com/video/BV1Wv411h7kN?p=115)<br/>[（三）Actor-Critic](https://www.bilibili.com/video/BV1Wv411h7kN?p=116)<br/>[（四）回馈非常罕见的時候怎么办？机器的望梅止渴](https://www.bilibili.com/video/BV1Wv411h7kN?p=117)<br/>[（五）如何从示范中学习？逆向增強式学习 (Inverse RL)](https://www.bilibili.com/video/BV1Wv411h7kN?p=118)|Video:<br/>[None]<br/><br/>PDF:<br/>[None]||[Video](https://www.bilibili.com/video/BV1Wv411h7kN?p=120)<br/>[Slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/hw12_RL_slides_english_version.pdf)<br/>[Code](https://colab.research.google.com/drive/11NS001dD653xCsxypBCohnvsI-CKs64o)<br/>[Submission](https://ml.ee.ntu.edu.tw/hw12/)|
 |Lecture 13|[神经网络压缩 (一) - 类神经网络剪枝(Pruning) 与大乐透假说(Lottery Ticket Hypothesis)](https://www.bilibili.com/video/BV1Wv411h7kN?p=122)<br/>[神经网络压缩 (二) - 从各种不同的面向來压缩神经网络](https://www.bilibili.com/video/BV1Wv411h7kN?p=123)|Video:<br/>[None]<br/><br/>PDF:<br/>[None]|[Proximal Policy Optimization (PPO)](https://www.bilibili.com/video/BV1Wv411h7kN?p=125)<br/>[Q-learning (Basic Idea)](https://www.bilibili.com/video/BV1Wv411h7kN?p=124)<br/>[Proximal Policy Optimization (Advanced Tips)](https://www.bilibili.com/video/BV1Wv411h7kN?p=125)<br/>[Proximal Policy Optimization (Continuous Action)](https://www.bilibili.com/video/BV1Wv411h7kN?p=127)<br/>[Geometry of Loss Surfaces (Conjecture)](https://www.bilibili.com/video/BV1Wv411h7kN?p=128)<br/>|[Video](https://www.bilibili.com/video/BV1Wv411h7kN?p=130)<br/>[Slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/Machine%20Learning%20HW13.pdf)<br/>[Code](https://colab.research.google.com/drive/1S7J12rzL4m5BjSk0QqYw2cnrcqP46VuV#scrollTo=k_UqVZtpSz5Z)<br/>[Submission](https://www.kaggle.com/competitions/ml2022spring-hw13)|
 |Lecture 14|[机器终身学习  (一) - 为什么今日的人工智能无法成为天网？灾难性遗忘(Catastrophic Forgetting)](https://www.bilibili.com/video/BV1Wv411h7kN?p=131)<br/>[机器終身学习  (二) - 灾难性遗忘(Catastrophic Forgetting)](https://www.bilibili.com/video/BV1Wv411h7kN?p=132)|Video:<br/>[None]<br/><br/>PDF:<br/>[None]||[Video](https://www.bilibili.com/video/BV1Wv411h7kN?p=134)<br/>[Slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/Homework%2014%20%20Regularization-based%20%20Lifelong%20Learning.pdf)<br/>[Code](https://colab.research.google.com/drive/11XAhRjXoiQhGfs0LMw6qD2eqPVsPQUxn?usp=sharing)<br/>[Submission]|
-|Lecture 15|[元学习 Meta Learning (一) - 元学习和机器学习一样也是三個步骤)](https://www.bilibili.com/video/BV1Wv411h7kN?p=135)<br/>[元学习 Meta Learning (二) - 万物皆可 Meta](https://www.bilibili.com/video/BV1Wv411h7kN?p=136)|Video:<br/>[各种奇葩的元学习 (Meta Learning) 用法](https://www.bilibili.com/video/BV1Wv411h7kN?p=137)<br/><br/>PDF:<br/>[None]|[MAML (1)](https://www.bilibili.com/video/BV1Wv411h7kN?p=138)<br/>[MAML (2)](https://www.bilibili.com/video/BV1Wv411h7kN?p=139)<br/>[MAML (3)](https://www.bilibili.com/video/BV1Wv411h7kN?p=140)<br/>[MAML (4)](https://www.bilibili.com/video/BV1Wv411h7kN?p=141)<br/>[MAML (5)](https://www.bilibili.com/video/BV1Wv411h7kN?p=142)<br/>[MAML (6)](https://www.bilibili.com/video/BV1Wv411h7kN?p=143)<br/>[MAML (7)](https://www.bilibili.com/video/BV1Wv411h7kN?p=144)<br/>[MAML (8)](https://www.bilibili.com/video/BV1Wv411h7kN?p=145)<br/>[MAML (9)](https://www.bilibili.com/video/BV1Wv411h7kN?p=146)<br/>[Gradient Descent as LSTM (1_3)](https://www.bilibili.com/video/BV1Wv411h7kN?p=147)<br/>[Gradient Descent as LSTM (2_3)](https://www.bilibili.com/video/BV1Wv411h7kN?p=148)<br/>[Gradient Descent as LSTM (3_3)](https://www.bilibili.com/video/BV1Wv411h7kN?p=149)<br/>[Metric-based (1)](https://www.bilibili.com/video/BV1Wv411h7kN?p=150)<br/>[Metric-based (2)](https://www.bilibili.com/video/BV1Wv411h7kN?p=151)<br/>[Metric-based (3)](https://www.bilibili.com/video/BV1Wv411h7kN?p=152)<br/>[Train+Test as RNN](https://www.bilibili.com/video/BV1Wv411h7kN?p=153)<br/>|[Video](https://www.bilibili.com/video/BV1Wv411h7kN?p=153)<br/>[Slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/ML2022%20HW15%20Meta%20Learning.pdf)<br/>[Code](https://colab.research.google.com/drive/1oKRpCYcU7P6qXHna05Kd9EkG6h1HtxdN?usp=sharingg)<br/>[Submission](https://www.kaggle.com/competitions/ml2022spring-hw15)|
+|Lecture 15|[元学习 Meta Learning (一) - 元学习和机器学习一样也是三個步骤)](https://www.bilibili.com/video/BV1Wv411h7kN?p=135)<br/>[元学习 Meta Learning (二) - 万物皆可 Meta](https://www.bilibili.com/video/BV1Wv411h7kN?p=136)|Video:<br/>[各种奇葩的元学习 (Meta Learning) 用法](https://www.bilibili.com/video/BV1Wv411h7kN?p=137)<br/><br/>PDF:<br/>[Meta](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/More%20Meta%20(v6).pdf)|[MAML (1)](https://www.bilibili.com/video/BV1Wv411h7kN?p=138)<br/>[MAML (2)](https://www.bilibili.com/video/BV1Wv411h7kN?p=139)<br/>[MAML (3)](https://www.bilibili.com/video/BV1Wv411h7kN?p=140)<br/>[MAML (4)](https://www.bilibili.com/video/BV1Wv411h7kN?p=141)<br/>[MAML (5)](https://www.bilibili.com/video/BV1Wv411h7kN?p=142)<br/>[MAML (6)](https://www.bilibili.com/video/BV1Wv411h7kN?p=143)<br/>[MAML (7)](https://www.bilibili.com/video/BV1Wv411h7kN?p=144)<br/>[MAML (8)](https://www.bilibili.com/video/BV1Wv411h7kN?p=145)<br/>[MAML (9)](https://www.bilibili.com/video/BV1Wv411h7kN?p=146)<br/>[Gradient Descent as LSTM (1_3)](https://www.bilibili.com/video/BV1Wv411h7kN?p=147)<br/>[Gradient Descent as LSTM (2_3)](https://www.bilibili.com/video/BV1Wv411h7kN?p=148)<br/>[Gradient Descent as LSTM (3_3)](https://www.bilibili.com/video/BV1Wv411h7kN?p=149)<br/>[Metric-based (1)](https://www.bilibili.com/video/BV1Wv411h7kN?p=150)<br/>[Metric-based (2)](https://www.bilibili.com/video/BV1Wv411h7kN?p=151)<br/>[Metric-based (3)](https://www.bilibili.com/video/BV1Wv411h7kN?p=152)<br/>[Train+Test as RNN](https://www.bilibili.com/video/BV1Wv411h7kN?p=153)<br/>|[Video](https://www.bilibili.com/video/BV1Wv411h7kN?p=153)<br/>[Slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2022-course-data/ML2022%20HW15%20Meta%20Learning.pdf)<br/>[Code](https://colab.research.google.com/drive/1oKRpCYcU7P6qXHna05Kd9EkG6h1HtxdN?usp=sharingg)<br/>[Submission](https://www.kaggle.com/competitions/ml2022spring-hw15)|
 
 ****
 [![BILIBILI](https://raw.githubusercontent.com/Fafa-DL/readme-data/main/gzh.jpg)](https://space.bilibili.com/46880349)
