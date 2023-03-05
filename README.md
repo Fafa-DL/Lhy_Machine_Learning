@@ -58,6 +58,7 @@
 |日期|项目|
 |---|---
 |2023/02/25|更新Topic【正确认识ChatGPT】及作业一|
+|2023/03/05|更新Topic【机器学习基本概念介绍】及作业二|
 
 
 ## 课程地址
@@ -75,12 +76,14 @@
 |Topic|正课内容|延申内容|选修内容|
 |---|---|---|---|
 |正确认识ChatGPT|[ChatGPT 原理剖析 (1/3) — 对 ChatGPT 的常见误解](https://www.bilibili.com/video/BV1TD4y137mP/?p=1)<br>[ChatGPT 原理剖析 (2/3) — 预训练 (Pre-train)](https://www.bilibili.com/video/BV1TD4y137mP/?p=2)<br>[ChatGPT 原理剖析 (3/3) — ChatGPT 所带来的研究问题](https://www.bilibili.com/video/BV1TD4y137mP/?p=3)<br>[用 ChatGPT 和 Midjourney 来玩文字冒险游戏](https://www.bilibili.com/video/BV1TD4y137mP/?p=4)|[ChatGPT (可能)是怎么炼成的](https://www.bilibili.com/video/BV1TD4y137mP/?p=5)|[Introduction of Deep Learning](https://www.bilibili.com/video/BV1TD4y137mP/?p=6)<br>[Backpropagation](https://www.bilibili.com/video/BV1TD4y137mP/?p=7)<br>[Predicting Pokémon CP](https://www.bilibili.com/video/BV1TD4y137mP/?p=8)<br>[Pokemon classification](https://www.bilibili.com/video/BV1TD4y137mP/?p=9)<br>[Logistic Regression](https://www.bilibili.com/video/BV1TD4y137mP/?p=10)|
+|机器学习基本概念介绍||||
 ## 课程作业直链
 ||Topic|讲解视频|讲义|代码|平台|预备知识|
 |---|---|---|---|---|---|---|
 |x|Colab Tutorial|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=11)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/Colab_Tutorial.pdf)|[code](https://colab.research.google.com/drive/1Qi4-BRqZ3qI3x_Jtr5ci_oRvHDMQpdiW?usp=sharing)|||
 |x|PyTorch Tutorial|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=12)|[slide 1](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/Pytorch_Tutorial_1.pdf)<br>[slide 2](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/Pytorch_Tutorial_2.pdf)|x|x|x|
 |HW1|Regression|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=13)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW01.pdf)|[code](https://colab.research.google.com/drive/1BESEu-l3qrGRULoATuXnWasUNuUlVF1Z?fbclid=IwAR1FrjUsp4rTy5PPFV-aWq6IG_Z44mFT4VH5e1lIhlekFl7fAvxGRCTCyR0)|[Kaggle](https://www.kaggle.com/t/a339b77fa5214978bfb8dde62d3151fe)|Lecture1: Introduction of Deep Learning<br>[video 1 /](https://www.bilibili.com/video/BV1TD4y137mP/?p=14) [video 2 / ](https://www.bilibili.com/video/BV1TD4y137mP/?p=15) [slides](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2021-course-data/regression%20(v16).pdf)|
+|HW2|Classification|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=20)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW02+%E8%81%BD%E6%B8%AC.pdf)|[code](https://colab.research.google.com/drive/1wzeiVy2g7HpSjlidUr0Gi50NnHBWTkvN#scrollTo=KVUGfWTo7_Oj)|[Kaggle](https://www.kaggle.com/t/03ac116596a247219b5a8d7a8e2b800e)|Lecture 2:What to do if my network fails to train<br>[video 1 /](https://www.bilibili.com/video/BV1TD4y137mP/?p=21) [video 2 / ](https://www.bilibili.com/video/BV1TD4y137mP/?p=22) [video 3 / ](https://www.bilibili.com/video/BV1TD4y137mP/?p=23) [video 4 / ](https://www.bilibili.com/video/BV1TD4y137mP/?p=24) [video 5 / ](https://www.bilibili.com/video/BV1TD4y137mP/?p=25) <br> [slides见2022课件](https://github.com/Fafa-DL/Lhy_Machine_Learning/tree/main/2022%20ML)|
 ## 其他优质课程
 
 |名称|链接|
