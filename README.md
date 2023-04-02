@@ -62,6 +62,7 @@
 |2023/03/12|更新Topic【机器如何生成文句】及作业三|
 |2023/03/20|更新Topic【机器如何生成图像】及作业四，删除作业选修，自行查看2021&2022相应章节|
 |2023/03/26|更新Topic【生成式学习的各种议题：多样性、评量方式、其他挑战】及作业五|
+|2023/04/02|更新作业六|
 
 
 ## 课程地址
@@ -83,6 +84,7 @@
 |机器如何生成文句|[slides](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/Prompt%20(v3).pdf)<br>[【生成式AI】Finetuning vs. Prompting：对于大型语言模型的不同期待所衍生的两类使用方式 (1_3)](https://www.bilibili.com/video/BV1TD4y137mP/?p=25)<br>[【生成式AI】Finetuning vs. Prompting：对于大型语言模型的不同期待所衍生的两类使用方式 (2_3)](https://www.bilibili.com/video/BV1TD4y137mP/?p=26)<br>[【生成式AI】Finetuning vs. Prompting：对于大型语言模型的不同期待所衍生的两类使用方式 (3_3)](https://www.bilibili.com/video/BV1TD4y137mP/?p=27)|[自督导式学习 (Self-supervised Learning) (二) – BERT简介](https://www.bilibili.com/video/BV1TD4y137mP/?p=28)<br>[自督导式学习 (Self-supervised Learning) (四) – GPT的野望](https://www.bilibili.com/video/BV1TD4y137mP/?p=29)|[AACL 2022 Tutorial: Recent Advances in Pre-trained Language Models:Why Do They Work and How to Use Them](https://d223302.github.io/AACL2022-Pretrain-Language-Model-Tutorial)|
 |机器如何生成图像|[slides](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/LargeLM-v7.pdf) [slides](https://drive.google.com/file/d/1sDHgtlZLnmXiSNRhB6lA14gYpFFoCTbw/view)<br>[【大模型 + 大资料 = 神奇结果？ (1_3)：大模型的顿悟时刻](https://www.bilibili.com/video/BV1TD4y137mP/?p=31)<br>[大模型 + 大资料 = 神奇结果？ (2_3)：到底要多少资料才够](https://www.bilibili.com/video/BV1TD4y137mP/?p=32)<br>[大模型 + 大资料 = 神奇结果？ (3_3)：另辟蹊径 — KNNLM](https://www.bilibili.com/video/BV1TD4y137mP/?p=33)<br>[GPT-4 来了! GPT-4 这次有什么神奇的能力呢？]()|[自督导式学习 (Self-supervised Learning) (二) – BERT简介](https://www.bilibili.com/video/BV1TD4y137mP/?p=34)<br>[自督导式学习 (Self-supervised Learning) (四) – GPT的野望](https://www.bilibili.com/video/BV1TD4y137mP/?p=35)|[AACL 2022 Tutorial: Recent Advances in Pre-trained Language Models:Why Do They Work and How to Use Them](https://d223302.github.io/AACL2022-Pretrain-Language-Model-Tutorial)|
 |生成式学习的各种议题：多样性、评量方式、其他挑战|[【生成式AI】速览图像生成常见模型](https://www.bilibili.com/video/BV1TD4y137mP/?p=36) [slides](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/ImageGeneration%20(v3).pdf)<br>[浅谈图像生成模型 Diffusion Model 原理](https://www.bilibili.com/video/BV1TD4y137mP/?p=37) [slides](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/DiffusionModel%20(v2).pdf)<br>[Stable Diffusion、DALL-E、Imagen 背后共同的套路](https://www.bilibili.com/video/BV1TD4y137mP/?p=38) [slides](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/StableDiffusion%20(v2).pdf)|[Variational Auto-encoder (VAE)](https://www.bilibili.com/video/BV1TD4y137mP/?p=39)<br>[Flow-based Generative Model](https://www.bilibili.com/video/BV1TD4y137mP/?p=40)<br>[Generative Adversarial Network (GAN)](https://www.bilibili.com/video/BV1TD4y137mP/?p=41)<br>||
+|量子机器学习||||
 
 ## 课程作业直链
 ||Topic|讲解视频|讲义|代码|平台|预备知识(见2021&2022相应章节)|
@@ -94,6 +96,7 @@
 |HW3|CNN|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=30)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW03.pdf)|[code](https://colab.research.google.com/drive/15A_8ilH-6-T3HOmSFrKbjDinBJl-s-16)|[Kaggle](https://www.kaggle.com/t/86ca241732c04da99aca6490080bae73)||
 |HW4|Self-attention|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=35)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW04.pdf)|[code](https://colab.research.google.com/drive/1u-610KA-urqfJjDH5O0pecwfP--V9DQs?usp=sharing)|[Kaggle](https://www.kaggle.com/t/49ea0c385a974db5919ec67299ba2e6b)||
 |HW5|Transformer|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=42)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW05.pdf)|[code](https://colab.research.google.com/drive/1qj_J9ld5KR3TTNbU5PnCAKMkDH3vN27p#scrollTo=59neB_Sxp5Ub)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)||
+|HW6|Generative Model|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=43)|[slide](https://docs.google.com/presentation/d/1x8c38zgEbN2zN4EboWhquZ5b3LhVCN8ElhaJCO2vnzY/edit#slide=id.g11dca28fc13_0_140)|[code](https://www.kaggle.com/code/b07202024/hw6-diffusion-model)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)||
 ## 其他优质课程
 
 |名称|链接|
