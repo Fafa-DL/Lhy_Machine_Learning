@@ -66,7 +66,8 @@
 |2023/04/16|更新Topic【Diffusion Model 原理剖析】|
 |2023/04/26|更新Topic【基石模型的各种变形】及作业7|
 |2023/05/03|更新Topic【大型语言模型的应用】及作业8|
-|2023/05/14|更新HW9、HW10，正式课程无法获取？|
+|2023/05/14|更新HW9、HW10，正式课程无法获取|
+|2023/05/21|更新Topic【语音基石模型】、【大型语言模型】及HW11|
 
 
 ## 课程地址
@@ -95,7 +96,9 @@
 |基石模型的各种变形|[【生成式AI】穷人如何低资源复刻自己的 ChatGPT](https://www.bilibili.com/video/BV1TD4y137mP/?p=46) [slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/PoorChatGPT-v2.pdf)<br>[让 AI 村民组成虚拟村庄会发生什么事？](https://www.bilibili.com/video/BV1TD4y137mP/?p=47) [slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/ThinkMore-v2.pdf)<br>[ChatGPT 可以自我反省!（B站审核不过）]() [slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/AI-interaction-v3.pdf)|
 |大型语言模型的应用||
 |隐私保护机器学习||
-|语音基石模型|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/%E5%BC%B5%E5%87%B1%E7%88%B2-x-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-x-%E8%AA%9E%E9%9F%B3%E5%9F%BA%E7%9F%B3%E6%A8%A1%E5%9E%8B.pdf)|
+|语音基石模型|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/%E5%BC%B5%E5%87%B1%E7%88%B2-x-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-x-%E8%AA%9E%E9%9F%B3%E5%9F%BA%E7%9F%B3%E6%A8%A1%E5%9E%8B.pdf)<br>[语音基石模型 (1_2)](https://www.bilibili.com/video/BV1TD4y137mP/?p=52)<br>[语音基石模型 (2_2)](https://www.bilibili.com/video/BV1TD4y137mP/?p=52)|
+|大型语言模型|[slides1](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/FrugalGPT-v2.pdf) [slides2](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/AIexpAI-v5.pdf) [slides3](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/LLM-plan-v5.pdf)<br>[用语言模型來解释语言模型 (上)](https://www.bilibili.com/video/BV1TD4y137mP/?p=55)<br>[用语言模型來解释语言模型 (下)](https://www.bilibili.com/video/BV1TD4y137mP/?p=56)<br>[让 AI 做计划然后自己运行自己](https://www.bilibili.com/video/BV1TD4y137mP/?p=57)<br>[)FrugalGPT- 来看看穷人怎么用省钱的方式来使用 ChatGPT(上)](https://www.bilibili.com/video/BV1TD4y137mP/?p=58)<br>[)FrugalGPT- 来看看穷人怎么用省钱的方式来使用 ChatGPT(下)](https://www.bilibili.com/video/BV1TD4y137mP/?p=59)<br>
+
 
 ## 课程作业直链
 ||Topic|讲解视频|讲义|代码|平台|预备知识(见2021&2022相应章节)|
@@ -111,7 +114,8 @@
 |HW7|BERT|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=47)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW07.pdf)|[code](https://colab.research.google.com/drive/1m0fQjJfkK9vAovxPj9Nd3-hQuxezB2w1)|[Kaggle](https://www.kaggle.com/t/e001cad568dc4d77b6a5e762172f44d6)|
 |HW8|Auto-encoder|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=49)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW08.pdf)|[code](https://colab.research.google.com/drive/1iqvGMVMkmTynKI8UQWaYeXxdQXeO7CKM#scrollTo=YiVfKn-6tXz8)|[Kaggle](https://www.kaggle.com/t/c76950cc460140eba30a576ca7668d28)|
 |HW9|Explainable AI|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=51)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW09.pdf)|[code](https://colab.research.google.com/drive/1w7p96mLz8uPQSCCXYPm1HxDVtLPHPZcS?usp=sharing)|[Gradescope](https://www.gradescope.com/courses/515619)|
-|HW10|Attack|[Video]()|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW10.pdf)|[code](https://colab.research.google.com/drive/1GmZI-58gQXxu6VTYHGpf0Ob1iZ8PB4GV?usp=share_link)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)|
+|HW10|Attack|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=54)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW10.pdf)|[code](https://colab.research.google.com/drive/1GmZI-58gQXxu6VTYHGpf0Ob1iZ8PB4GV?usp=share_link)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)|
+|HW11|Adaptation|[Video]()|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW11.pdf)|[code](https://colab.research.google.com/drive/1mzs--uJmW3fE2Dy-FIU_EKe2MIPBzz8I?usp=sharing)|[Kaggle](https://www.kaggle.com/t/77117edf751b445b86baaaf745a7f89c)|
 ## 其他优质课程
 
 |名称|链接|
