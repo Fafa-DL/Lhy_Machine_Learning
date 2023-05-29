@@ -68,6 +68,7 @@
 |2023/05/03|更新Topic【大型语言模型的应用】及作业8|
 |2023/05/14|更新HW9、HW10，正式课程无法获取|
 |2023/05/21|更新Topic【语音基石模型】、【大型语言模型】及HW11|
+|2023/05/29|更新HW12|
 
 
 ## 课程地址
@@ -115,7 +116,8 @@
 |HW8|Auto-encoder|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=49)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW08.pdf)|[code](https://colab.research.google.com/drive/1iqvGMVMkmTynKI8UQWaYeXxdQXeO7CKM#scrollTo=YiVfKn-6tXz8)|[Kaggle](https://www.kaggle.com/t/c76950cc460140eba30a576ca7668d28)|
 |HW9|Explainable AI|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=51)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW09.pdf)|[code](https://colab.research.google.com/drive/1w7p96mLz8uPQSCCXYPm1HxDVtLPHPZcS?usp=sharing)|[Gradescope](https://www.gradescope.com/courses/515619)|
 |HW10|Attack|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=54)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW10.pdf)|[code](https://colab.research.google.com/drive/1GmZI-58gQXxu6VTYHGpf0Ob1iZ8PB4GV?usp=share_link)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)|
-|HW11|Adaptation|[Video]()|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW11.pdf)|[code](https://colab.research.google.com/drive/1mzs--uJmW3fE2Dy-FIU_EKe2MIPBzz8I?usp=sharing)|[Kaggle](https://www.kaggle.com/t/77117edf751b445b86baaaf745a7f89c)|
+|HW11|Adaptation|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=60)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW11.pdf)|[code](https://colab.research.google.com/drive/1mzs--uJmW3fE2Dy-FIU_EKe2MIPBzz8I?usp=sharing)|[Kaggle](https://www.kaggle.com/t/77117edf751b445b86baaaf745a7f89c)|
+|HW11|Reinforcement Learning|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=61)|[slide](https://docs.google.com/presentation/d/1yY3Yel6-W4Lvx6YYHD_-z574xcKr0xEoKHXB2exSeBg/edit#slide=id.p)|[code](https://colab.research.google.com/drive/1XIw2FLg4FVYpAblLlTf14zP9grVoDmaU)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)|
 ## 其他优质课程
 
 |名称|链接|
