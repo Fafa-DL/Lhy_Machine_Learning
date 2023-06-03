@@ -69,6 +69,7 @@
 |2023/05/14|更新HW9、HW10，正式课程无法获取|
 |2023/05/21|更新Topic【语音基石模型】、【大型语言模型】及HW11|
 |2023/05/29|更新HW12|
+|2023/06/03|更新HW13、HW14、HW15|
 
 
 ## 课程地址
@@ -117,7 +118,10 @@
 |HW9|Explainable AI|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=51)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW09.pdf)|[code](https://colab.research.google.com/drive/1w7p96mLz8uPQSCCXYPm1HxDVtLPHPZcS?usp=sharing)|[Gradescope](https://www.gradescope.com/courses/515619)|
 |HW10|Attack|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=54)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW10.pdf)|[code](https://colab.research.google.com/drive/1GmZI-58gQXxu6VTYHGpf0Ob1iZ8PB4GV?usp=share_link)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)|
 |HW11|Adaptation|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=60)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW11.pdf)|[code](https://colab.research.google.com/drive/1mzs--uJmW3fE2Dy-FIU_EKe2MIPBzz8I?usp=sharing)|[Kaggle](https://www.kaggle.com/t/77117edf751b445b86baaaf745a7f89c)|
-|HW11|Reinforcement Learning|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=61)|[slide](https://docs.google.com/presentation/d/1yY3Yel6-W4Lvx6YYHD_-z574xcKr0xEoKHXB2exSeBg/edit#slide=id.p)|[code](https://colab.research.google.com/drive/1XIw2FLg4FVYpAblLlTf14zP9grVoDmaU)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)|
+|HW12|Reinforcement Learning|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=61)|[slide](https://docs.google.com/presentation/d/1yY3Yel6-W4Lvx6YYHD_-z574xcKr0xEoKHXB2exSeBg/edit#slide=id.p)|[code](https://colab.research.google.com/drive/1XIw2FLg4FVYpAblLlTf14zP9grVoDmaU)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)|
+|HW13|Network Compression|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=62)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW13.pdf)|[code](https://colab.research.google.com/drive/1rW8tgC9QpNmvOo-e7MXI2LH1ojFXjsmu?usp=sharing#scrollTo=-hQgM5oQSz5g)|[Kaggle](https://www.kaggle.com/t/899315e53b164aaeacdc1f5125a32f95)|
+|HW14|Life-long Learning|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=63)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW14.pdf)|[code](https://colab.research.google.com/drive/1O1pAeKmSMwrNXWxeE9SApgdxK8CKC5dk?usp=sharing)|[JudgeBoi](https://www.gradescope.com/courses/515619)|
+|HW15|Meta Learning|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=64)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW15.pdf)|[code](https://colab.research.google.com/drive/1tnsxsSJ0Ltr-BRGYE8rA4a4NzG7ZgnNF?usp=sharing)|[Kaggle](http://www.kaggle.com/competitions/ml2023spring-hw15)|
 ## 其他优质课程
 
 |名称|链接|
